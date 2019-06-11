@@ -1,6 +1,6 @@
 <?php
 /*
-  Template Name: Sidebar Right
+  Template Name: Sidebar Right template
   Just an example how to create custom page-template
 */
 
